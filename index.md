@@ -12,18 +12,19 @@ cout << "Us"  << endl;
 That's the official website link of [UCSD](https://ucsd.edu/).
 
 That's the the [README file](./README.md) of this branch.
+
 **That's me!**
 ![me](./me.jpg)
 
 I'm a senior student major in CS.
 
 Hobby
--Cycling
--Video games
--Travel around
+- Cycling
+- Video games
+- Travel around
 
 
-Video games
+Some video games I play
 1. CSGO
 2. Apex legends
 3. Monster Hunter: World
