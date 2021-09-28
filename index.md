@@ -1,6 +1,8 @@
 # Lab1 part3 #
 [Me as a person](#about-me-as-a-person)
+
 [Me as a programmer](#about-me-as-a-programmer)
+
 **Some task of this lab**
 
 > Quote something
